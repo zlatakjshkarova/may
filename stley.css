@@ -1,0 +1,19 @@
+body {
+    transition: background 0.3s, color 0.3s;
+    padding: 20px;
+}
+
+.light {
+    background-color: #fff;
+    color: #333;
+}
+
+.button {
+    padding: 8px, 10px;
+    margin-top: 10px;
+}
+
+.dack {
+    background-color: #333;
+    color: #fff;
+}
